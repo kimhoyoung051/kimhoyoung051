@@ -5,6 +5,8 @@
 - 🩺 I majored in medicine.
 - 📚 I’m currently learning neural networks, programming languages, and data science which were not available in the undergraduate major. </br>
 
+<br/>
+
 ### 👀 Current Interest
 - Applying artificial intelligence and data science to medicine.
 - Computer Vision, Explainable AI
