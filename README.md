@@ -26,7 +26,7 @@
 |Dec. 2022 - Jan. 2023|Medical Experience|Samsung Medical Center, Department of Ophthalmology|Elective Program|
 |Feb. 2022 - July. 2023|Medical Experience|Samsung Medical Center, Kangbuk & Changwon Samsung Hospital|Clinical Clerkship|
 |Aug. 2021 - Nov. 2023|Research Experience|Samsung Medical Center, Department of Radiology|Undergraduate Researcher|
-|Sept. 2018 - Dec. 2018|Sungkyunkwan University School of Medicine, Laboratory of Biomedical Science|Undergraduate Internship|
+|Sept. 2018 - Dec. 2018|Research Experience|Sungkyunkwan University School of Medicine, Laboratory of Biomedical Science|Undergraduate Internship|
 
 <br/>
 
