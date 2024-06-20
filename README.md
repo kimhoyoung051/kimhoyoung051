@@ -5,7 +5,7 @@
 - 👀 I’m interested in applying artificial intelligence and data science to medicine.
 - 🌱 I’m currently learning 
 
-<br/>
+
 #### Experience
 
 
