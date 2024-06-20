@@ -11,10 +11,14 @@
 - Applying artificial intelligence and data science to medicine.
 - Computer Vision, Explainable AI
 
+<br/>
+
 ### 🎓 Education
 |Name|Degree|Date|
 |---------|---|--------|
 |Sungkyunkwan University School of Medicine|Bachelor of Medicine|Mar. 2018 - Feb. 2024|
+
+<br/>
 
 ### 🌱 Experiences
 |Date|Type|Organization|Contents|
@@ -24,6 +28,7 @@
 |Aug. 2021 - Nov. 2023|Research Experience|Samsung Medical Center, Department of Radiology|Undergraduate Researcher|
 |Sept. 2018 - Dec. 2018|Sungkyunkwan University School of Medicine, Laboratory of Biomedical Science|Undergraduate Internship|
 
+<br/>
 
 ### 💪🏻 Skills
 
