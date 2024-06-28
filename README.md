@@ -24,7 +24,7 @@
 
 <br/>
 
-### 🌱 Experiences
+### 🌱 Undergraduate Experiences
 | Date                   | Type                | Organization                                                                 | Contents                 |
 |------------------------|---------------------|------------------------------------------------------------------------------|--------------------------|
 | Dec. 2022 - Jan. 2023  | Medical Experience  | Samsung Medical Center, Department of Ophthalmology                          | Elective Program         |
