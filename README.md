@@ -17,7 +17,7 @@
 ### 🏢 Careers
 | Date                | Organization                                                                | Position                 |
 |---------------------|-----------------------------------------------------------------------------|--------------------------|
-|Jul. 2024 - Present  |Samsung Advanced Institute for Health Sciences & Technology                  | Researcher               |
+|Jul. 2024 - Present  |Samsung Advanced Institute for Health Sciences & Technology (SAIHST)         | Researcher               |
 <br/>
 
 ### 🎓 Education
